@@ -5,7 +5,6 @@ This repository contains exploratory Jupyter notebooks for ECG arrhythmia analys
 **Note:** These are analysis notebooks (research/experimental). Review dataset licensing and the notebooks' top cells for dataset download instructions before running.
 # CHTR — ECG Arrhythmia Analysis
 
-Short description
 - Notebooks demonstrate preprocessing, visualization, and modeling experiments performed on public ECG databases .
 
 Primary notebooks
