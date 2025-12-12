@@ -10,7 +10,7 @@ This repository contains exploratory Jupyter notebooks for ECG arrhythmia analys
 Primary notebooks
 - `AFDB.ipynb` — Atrial Fibrillation database (AFDB) analysis and preprocessing examples.
 - `SVDB.ipynb` — Supraventricular database (SVDB) analysis.
-- `MIT-BIH.ipynb` — Additional ECG analysis (CNE).
+- `MIT-BIH.ipynb` — Moat of our ECG analysis.
 
 Quick start (PowerShell)
 
